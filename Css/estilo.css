@@ -1,0 +1,17 @@
+.imgProductos {
+    height: 75px;
+    width: 75px;
+    object-fit: contain;
+    margin-top: 2rem;
+}
+
+.colorBoton {
+    color: rgb(255, 255, 255);
+    background-color: #4aebf7;
+}
+
+.card {
+    display: flex;
+    align-items: center;
+    margin: 1rem;
+}
